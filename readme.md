@@ -1,6 +1,6 @@
 # RAG - Recipe Assistant with Google Gemini
 
-![Logo du Projet](image.png)  <!-- Remplacer "image.png" par le nom de ton image -->
+![Logo du Projet](LOGO.png)  <!-- Remplacer "image.png" par le nom de ton image -->
 
 Ce projet propose un assistant de recette basé sur la technologie Retrieval-Augmented Generation (RAG) pour offrir une expérience interactive aux utilisateurs en leur permettant d'accéder à une liste diversifiée de recettes via des requêtes en langage naturel. L'utilisateur peut obtenir des informations sur les recettes, les instructions de préparation, et même les apports nutritionnels associés à chaque plat.
 
